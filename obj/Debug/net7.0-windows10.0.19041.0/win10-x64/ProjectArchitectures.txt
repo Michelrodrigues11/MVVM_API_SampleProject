@@ -1,0 +1,1 @@
+D:\2DS_Michel\Programação de Aplicativos Mobile I\Nova pasta\MVVM_API_SampleProject.csproj;x64

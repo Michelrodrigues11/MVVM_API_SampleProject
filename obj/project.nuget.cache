@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Heh5EJgugVd5ZExsw4XHTY118NQt97952+5VJKnfBdorLnsERY1PuEF95KbHfsCLbs9UdQ7E0YZeI46YEuUBOQ==",
+  "success": false,
+  "projectFilePath": "E:\\2 Módulo\\2DS_Michel\\Programação de Aplicativos Mobile I\\Nova pasta\\Nova pasta\\MVVM_API_SampleProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "A versão da plataforma não está presente para uma ou mais estruturas de destino, embora elas tenham uma plataforma especificada: net7.0-android, net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}

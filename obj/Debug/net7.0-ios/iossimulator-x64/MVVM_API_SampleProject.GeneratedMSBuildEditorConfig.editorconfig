@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVVM_API_SampleProject
+build_property.ProjectDir = D:\2DS_Michel\Programação de Aplicativos Mobile I\Nova pasta\
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/Views/PostView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.Views.PostView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PostView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PostView.xaml
+
+[D:/2DS_Michel/Programação de Aplicativos Mobile I/Nova pasta/Views/ToDoView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MVVM_API_SampleProject.Views.ToDoView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ToDoView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ToDoView.xaml
